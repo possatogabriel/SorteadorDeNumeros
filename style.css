@@ -90,7 +90,7 @@ body::before {
     gap: 1em;
 }
 
-.container__botao {
+.container__botao-habilitado {
     border-radius: 16px;
     background: #1875E8;
     padding: 16px 24px;

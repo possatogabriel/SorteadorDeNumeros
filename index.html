@@ -16,7 +16,7 @@
         <div class="container__conteudo">
             <div class="container__informacoes">
                 <div class="container__texto">
-                    <h1>Sorteador<span class="container__texto-azul"> de números</span></h1>
+                    <h1>Sorteador<span class="container__texto-azul" id = "msgInicialAzul"> de números</span></h1>
 
                     <div class="container__campo">
                         <label class="texto__paragrafo">Quantidade de números</label>
@@ -35,12 +35,14 @@
                 </div>
                 
                 <div class="chute container__botoes">
-                    <button onclick="clicarSortear()" id="btn-sortear" class="container__botao"> Sortear </button>
+                    <button onclick="clicarSortear()" id="btn-sortear" class="container__botao-habilitado"> Sortear </button>
                     <button onclick="clicarReiniciar()" id="btn-reiniciar" class="container__botao-desabilitado"> Reiniciar </button>
                 </div>
 
                 <div class="container__texto">
                     <label class="texto__paragrafo" id = "resultado"> Números sorteados: nenhum até agora </label>
+                    <br/>
+                    <label class="texto__paragrafo" style = "color: #1875E8;" id = "final"> </label>
                 </div>
             </div>
 
