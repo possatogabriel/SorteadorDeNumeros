@@ -18,11 +18,11 @@ Esse projeto apresenta um **sorteador de números**, onde você escolhe a quanti
 ## 💻 Tecnologias Utilizadas
 `Trabalhado durante o curso:`
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "40" alt = "Ícone Java"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "40" alt = "Ícone JavaScript"/> 
 
 `Modificado para novas implementações OPCIONAIS:`
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height = "40" alt = "Ícone HTML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height = "40" alt = "Ícone HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height = "40" alt = "Ícone CSS"/>
 
 `Desenvolvido anteriormente pela Alura:`
 
